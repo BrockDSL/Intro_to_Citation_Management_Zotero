@@ -1,31 +1,26 @@
-Add in the workshop image here using the referential link at the bottom of the README file
+![Tool Logo](logo)
 
-![Tool Logo](Image filename)
-
-
-# Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process
-
+# Citation Management with Zotero
+Zotero is a citation tracking platform that allows you to quickly and easily create in-text citations and bibliographies. It quickly allows you to take important information from anything you might find from the internet including scholarly publications, news articles and even YouTube videos. It is a great tool to help you do your research. This workshop will guide you through the installation of this tool and the most effective ways to use it. 
 ## Setup Instructions
-In preparation for this workshop, you will need...
-
-Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
-
-For all of the above, keep in mind that some of our attendees could be using machines on campus and therefore might have limitations in regards to downloading tools and files.
+In preparation for this workshop, you will need to register for a [Zotero account](https://www.zotero.org/user/register/)
+Download the [desktop client](https://www.zotero.org/download/) and [browser extension](https://www.zotero.org/download/).
+Zotero should automatically install plugins for your word processors, like LibreOffice or MS Word. 
 
 ## Helpful Materials
-Add in any helpful resources, code snippets, cheat sheets, or other relevant information here.
+There are many ways to add citations to Zotero. They will be covered in the workshop. Here are some of the resources we will practise adding.
+ISBN: 978-1509546114
+DOI: 10.1007/s11263-008-0152-6 or https://doi.org/10.26522/ssj.v15i2.2430
+Item from OMNI: https://brocku.ca/library/
 
 ## Follow Up Material
-Add in names of books, links to websites, or any other reccomendations for follow up materials that could represent the "Next Step" in an attendees learning after the workshop.  helpful links like the Programming Historians or W3Schools are good examples.
+If you wish to extend the utility of Zotero, try out some [plugins](https://www.zotero.org/support/plugins) for quality of life.
+If you wish to use Zotero collaboratively, you can create or join a [group](https://www.zotero.org/groups/)
+If you wish to use Zotero on your [iOS or Android device](https://www.zotero.org/support/mobile), there are official and third party apps available.
+More information and user guides on the [Zotero webpage](https://www.zotero.org/support/)
 
- 
- 
- 
-
-  
+Is Zotero for you? You might want to check out other citation management tools like Mendeley, EndNote,or RefWorks.   
+   
 **This workshop is brought to you by the Brock University Digital Scholarship Lab.  For a listing of our upcoming workshops go to [Experience BU](https://experiencebu.brocku.ca/organization/dsl) if you are a Brock affiliate or [Eventbrite page](https://www.eventbrite.ca/o/brock-university-digital-scholarship-lab-21661627350) for external attendees.**
 
+[logo]: Citation-Management.png
